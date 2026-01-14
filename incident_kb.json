@@ -1,0 +1,29 @@
+[
+  {
+    "summary": "Payment transactions failing globally",
+    "service": "Payments",
+    "impact": "All users",
+    "priority": "P1",
+    "category": "Application",
+    "assignment_group": "Payments Support",
+    "major_incident": true
+  },
+  {
+    "summary": "Customer portal unavailable",
+    "service": "Customer Portal",
+    "impact": "All users",
+    "priority": "P1",
+    "category": "Application",
+    "assignment_group": "Web Platform Team",
+    "major_incident": true
+  },
+  {
+    "summary": "VPN login slow",
+    "service": "Corporate VPN",
+    "impact": "Few users",
+    "priority": "P4",
+    "category": "Network",
+    "assignment_group": "Network Operations",
+    "major_incident": false
+  }
+]
